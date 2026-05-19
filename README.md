@@ -109,3 +109,19 @@ This project demonstrates the ability to:
 * Identify cost-saving opportunities through data analysis
 * Translate operational data into actionable business insights
 * Apply analytical thinking to real-world procurement operations
+
+## Limitations
+
+During the analysis, one of the major challenges encountered was data inconsistency within the procurement records. The dataset contained:
+
+* Inconsistent item naming conventions
+* Vendor name mismatches and duplicate naming formats
+* * Data entry inconsistencies across departments
+Variations in spelling and formatting for similar items
+
+## Contact
+
+Open to Data Analyst opportunities.
+
+- Email: deborahjonah06@gmail.com
+- LinkedIn: https://www.linkedin.com/in/deborah-jonah-220210327
