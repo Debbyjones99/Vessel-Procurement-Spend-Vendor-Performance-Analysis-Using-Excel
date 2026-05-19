@@ -52,7 +52,7 @@ Key Findings
 * Operational consumables such as medications, cleaning materials, rags, and engine requisition items appeared repeatedly throughout the procurement cycle.
 
 ### Key Observations
-1. Frequent Purchases of Filters and Lube Oil
+#### Frequent Purchases of Filters and Lube Oil
 The analysis revealed repeated procurement of engineering consumables such as filters and lube oil, indicating:
 
 * High operational dependency on these items
