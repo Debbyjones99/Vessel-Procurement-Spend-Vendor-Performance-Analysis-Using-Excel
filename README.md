@@ -82,14 +82,14 @@ The dataset showed repeated procurement from certain vendors over time. Heavy de
 ## Recommendations
 Improve Inventory Monitoring
 
-Implement a structured inventory tracking process for fast-moving operational items through:
+#### Implement a structured inventory tracking process for fast-moving operational items through:
 
 * Daily onboard usage reporting
 * Periodic stock verification
 * Better procurement approval monitoring
 * Adopt Bulk Purchasing Strategies
 
-Frequently requested operational items should be procured in bulk where practical to:
+#### Frequently requested operational items should be procured in bulk where practical to:
 
 * Reduce repetitive purchases
 * Improve vendor negotiation power
