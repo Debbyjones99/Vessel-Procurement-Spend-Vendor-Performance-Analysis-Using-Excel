@@ -59,7 +59,7 @@ The analysis revealed repeated procurement of engineering consumables such as fi
 * Potential inventory monitoring gaps
 * Opportunities for bulk purchasing strategies
 
-2. Recurring Operational Consumables
+#### Recurring Operational Consumables
 
 Items such as:
 
@@ -71,7 +71,7 @@ Items such as:
 
 Were frequently requested, suggesting the need for better inventory planning and stock management.
 
-3. Vendor Concentration
+#### Vendor Concentration
 
 The dataset showed repeated procurement from certain vendors over time. Heavy dependence on a limited number of vendors may:
 
