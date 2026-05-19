@@ -28,7 +28,7 @@ The project focuses on identifying procurement inefficiencies, monitoring operat
 * Monitor overall spend trends over time
 * Recommend cost optimization opportunities
 
-* <a href=https://github.com/Debbyjones99/Vessel-Procurement-Spend-Vendor-Performance-Analysis-Using-Excel/blob/main/Dataset/mv%20beautiful%20dataset.xlsxs > Dataset</a>
+<a href=https://github.com/Debbyjones99/Vessel-Procurement-Spend-Vendor-Performance-Analysis-Using-Excel/blob/main/Dataset/mv%20beautiful%20dataset.xlsxs > Dataset</a>
 
 ## Tools & Techniques Used
 * Microsoft Excel
@@ -45,7 +45,7 @@ The project focuses on identifying procurement inefficiencies, monitoring operat
 
 <img width="622" height="372" alt="Executive_dashboard" src="https://github.com/Debbyjones99/Vessel-Procurement-Spend-Vendor-Performance-Analysis-Using-Excel/blob/main/Dashboard/MV%20beautiful.png" />
 
-## Key Findings
+### Key Findings
 * The highest procurement spend recorded was ₦3,044,140, associated with vendor Lubserv for the purchase of Lube Oil.
 * Procurement spend increased significantly in October, recording approximately 362% growth compared to the previous month, with a total spend of ₦3,625,640.
 * The most frequently purchased item category was Filters, with approximately 176 filter-related units procured across different filter types.
